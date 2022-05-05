@@ -1,0 +1,34 @@
+.logo-search {
+  display:flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0px 5px 0px 5px;
+  height: 200px;
+}
+.logo-search img{
+    width: 200px;
+    height: 200px;
+}
+.search-container{
+  display: flex;
+  align-self: center;
+}
+.search-input{
+  align-self: center;
+  width:30vw;
+}
+body {
+  background-color: rgb(169, 169, 183);
+  padding: 2px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+.footer i {
+  padding: 5px;
+}
+
+
+
